@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 enum monthnumber
 {
     Январь = 1,
@@ -17,7 +16,6 @@ enum monthnumber
     Ноябрь = 11,
     Декабрь = 12
 };
-
 const char* getMonthName(monthnumber month) {
     switch (month) {
     case Январь: return "Январь";
@@ -31,8 +29,7 @@ const char* getMonthName(monthnumber month) {
     case Сентябрь: return "Сентябрь";
     case Октябрь: return "Октябрь";
     case Ноябрь: return "Ноябрь";
-    case Декабрь: return "Декабрь";
-    default: return "Ошибка: неверный номер месяца"; // Для защиты от недопустимых значений
+    case Декабрь: return "Декабрь"; 
     }
 }
 int main() {
