@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\LESSON 7 08.01.25 исправление\.gitignore" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\Lesson 7 08.01.25\Task 8\Task 8\Figure.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
