@@ -1,7 +1,4 @@
 # ninja log v5
-1	246	7585869569917415	CMakeFiles/superprogrammFIGURI.dir/src/main.cpp.obj	ce98de3f1c1c1059
-260	581	7585869573133637	superprogrammFIGURI.exe	d0b2ede8d4b0ce48
-6	259	7585869570041220	CMakeFiles/superprogrammFIGURI.dir/src/figures.cpp.obj	200df5b7f4feb70
 1	246	7585871065189180	CMakeFiles/superprogrammFIGURI.dir/src/main.cpp.obj	ce98de3f1c1c1059
-8	254	7585871065189180	CMakeFiles/superprogrammFIGURI.dir/src/figures.cpp.obj	200df5b7f4feb70
 254	390	7585871066282937	superprogrammFIGURI.exe	d0b2ede8d4b0ce48
+8	254	7585871065189180	CMakeFiles/superprogrammFIGURI.dir/src/figures.cpp.obj	200df5b7f4feb70
